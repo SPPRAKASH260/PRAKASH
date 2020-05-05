@@ -14,4 +14,4 @@ void main()
     sum=sum+s[i];
   }
   printf("%d",sum);
-}
+}//Ho you
